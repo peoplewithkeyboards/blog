@@ -1,6 +1,6 @@
 ---
-title : About Me
-description:
+title : About
+description: We're going to be a non-profit. For now, we're just posting code.
 ---
 
-All about me =)
+We're going to be a non-profit. For now, we're just posting code.
