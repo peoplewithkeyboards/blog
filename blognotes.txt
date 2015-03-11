@@ -1,0 +1,35 @@
+Blogging notes:
+Command prompt: 
+Octopress attempt:
+	gem install octopress --pre
+	octopress init
+	octopress docs
+
+Jekyll attempt:
+	gem install jekyll
+	pip install Pygments (needs to be administrator)
+	
+Ruhoh:
+	gem install ruhoh
+	get scaffolding: https://github.com/ruhoh/blog
+	failed attempt:
+		download and install libyaml: http://pyyaml.org/wiki/LibYAML
+			This is the most difficult step if you are using Windows
+			https://github.com/masnick/beautify-gem/wiki/Installing-psych-on-Windows
+			http://jonforums.github.io/ruby/2012/02/24/hacking-a-gem.html
+	bundle install
+	ruhoh server 9292
+	
+	create homepage: /_root/index.md
+		
+
+	Blogging requirements:
+		No spying
+			Me - I won't spy on you
+			Them - I won't willingly allow other companies to spy on you or me
+		Static Generator - easiest for search engines
+		Not too complicated - I forget things easily
+		Abyss - Easily allow custom html/css/js so I can go into the abyss if I want to
+		Boilerplate code - layout, atom, etc.
+	
+	
